@@ -63,3 +63,4 @@ A forma mais simples é publicar no [Vercel](https://vercel.com):
 - Imagens usam `loading="lazy"` na galeria.
 - O site é totalmente responsivo (celular, tablet, desktop).
 # aniversariododengo
+# aniversariododengo
