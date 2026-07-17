@@ -1,0 +1,12 @@
+Coloque nesta pasta (public/images/) as seguintes fotos, com exatamente estes nomes:
+
+1. casal-hero.jpg        -> foto grande do casal (seção principal / Hero)
+2. garanhuns-1.jpg       -> foto da viagem a Garanhuns
+3. garanhuns-2.jpg       -> foto da viagem a Garanhuns
+4. galeria-1.jpg  até  galeria-10.jpg  -> as 10 fotos da galeria
+
+Dica: fotos verticais (proporção 4:5) funcionam melhor na foto do Hero.
+Fotos quadradas (1:1) funcionam melhor na galeria.
+
+Se algum arquivo não existir, o navegador mostrará apenas um espaço em branco
+no lugar da imagem — o site continua funcionando normalmente.
